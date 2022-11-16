@@ -8,4 +8,4 @@
 
 #### Skills
 
-![My Skills](https://skillicons.dev/icons?i=go,cpp,cs,c,py,php,java,mysql,svelte,js,html,css,bootstrap,tailwind)
+![My Skills](https://skillicons.dev/icons?i=go,cpp,cs,c,py,php,mysql,svelte,js,html,css,bootstrap,tailwind)
