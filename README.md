@@ -1,3 +1,5 @@
+[![LinkedIn: alessandro](https://img.shields.io/badge/-alessandro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alessandro/)](https://www.linkedin.com/in/alessandro-versari-4b6533240/)
+
 ### Hey There! 👋
 
 - I’m Alessandro, a Master student in Computer Engineering  @University of Pisa
