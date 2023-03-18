@@ -2,9 +2,11 @@
 
 ### Hey There! 👋
 
-- I’m Alessandro, a Master student in Artificial Intelligence and Data Engineering @University of Pisa
+I’m Alessandro,
+
+- Currently working as a software developer in Go @Equixely-Inc
+- Master student in Artificial Intelligence and Data Engineering @University of Pisa
 - I’m interested in Artificial Intelligence and Algorithms
-- Currently developing in Go @Equixely-Inc
 
 #### Skills
 
