@@ -4,8 +4,8 @@
 
 - I’m Alessandro, a Master student in Artificial Intelligence and Data Engineering @University of Pisa
 - I’m interested in Artificial Intelligence and Algorithms
-- Currently developing in Go 
+- Currently developing in Go @Equixely-Inc
 
 #### Skills
 
-![My Skills](https://skillicons.dev/icons?i=go,cpp,cs,c,py,php,mysql,svelte,js,html,css,bootstrap,tailwind)
+![My Skills](https://skillicons.dev/icons?i=go,cpp,py,svelte,tailwind)
