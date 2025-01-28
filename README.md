@@ -4,9 +4,8 @@
 
 I’m Alessandro,
 
-- Currently working as a security software engineer developer in Go @Equixely-Inc
 - Master student in Artificial Intelligence and Data Engineering @University of Pisa
-- I’m interested in Artificial Intelligence and Algorithms
+- Passionate about Cybersecurity, Artificial Intelligence, and Algorithms
 
 #### Skills
 
